@@ -1,5 +1,6 @@
-# Keeper-app
-Keeper app using React
+# React Keeper App
+
+This is a simple React app for keeping notes.
 
 ## Getting Started
 
